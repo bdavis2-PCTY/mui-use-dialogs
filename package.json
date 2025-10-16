@@ -1,6 +1,6 @@
 {
   "name": "mui-use-dialogs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "MUI Dialogs and Hooks!",
   "author": "Braydon Davis",
   "license": "MIT",
@@ -45,8 +45,8 @@
   "peerDependencies": {
     "@mui/icons-material": ">= 5.0.0",
     "@mui/material": ">= 5.0.0",
-    "react": "^17.0.0 || ^18.0.0",
-    "react-dom": "^17.0.0 || ^18.0.0"
+    "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "dependencies": {
     "tslib": "^2.7.0"
